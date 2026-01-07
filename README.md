@@ -1,6 +1,8 @@
 # Decoding the Beautiful Game: A Deep Dive Into The Historical Trends of Europe's Football Leagues
 
-### Link to the Complete Project Article/Story of the Project: https://medium.com/@alijrizvi/decoding-the-beautiful-game-a-deep-dive-into-the-historical-trends-of-europes-football-leagues-c59cc3274343
+### Link to the Complete Project Article/Story of the Project: 
+
+https://medium.com/@alijrizvi/decoding-the-beautiful-game-a-deep-dive-into-the-historical-trends-of-europes-football-leagues-c59cc3274343
 
 This project sought to collect and organize data on the aggregated, final league tables for six of Europe's premier Football (Soccer) leagues' First Divisions: England, Italy, Spain, Germany, Portugal, and France.
 The aggregated league tables are the results of the recording of all of each Team's Matches Played and Total Points earned, along with other key metrics like Wins and Goals Scored, and then ranking by Total Points accumulated across all seasons in the First Division.
